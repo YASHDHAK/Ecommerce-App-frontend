@@ -7,6 +7,7 @@ import { UserProvider } from './context/UserContext'
 import { ProductProvider } from './context/ProductContext'
 import { CartProvider } from './context/CartContext'
 export const server = "https://ecommerce-app-server-jzrv.onrender.com";
+// export const server = "http://localhost:5000";
 export const categories = [
   "smartphone",
   "laptop",
